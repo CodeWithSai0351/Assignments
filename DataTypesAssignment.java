@@ -1,6 +1,6 @@
 package com.cts.creatio.crm.language.basics;
 
-public class AssignmentDataTypes {
+public class DataTypesAssignment {
 
 	/**
 	 * @author somisettisairamkrishna
